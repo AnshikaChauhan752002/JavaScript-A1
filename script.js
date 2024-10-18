@@ -1,7 +1,7 @@
 //Question-1
 function AddTwoNumbers(){
-    let A=5;
-    let B=10;
+    let A=2;
+    let B=5;
     console.log(A+B);
 }
 AddTwoNumbers();
